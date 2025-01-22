@@ -16,9 +16,11 @@
   <a href="https://www.linkedin.com/in/mborgesx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <div style="display: inline-block">
+  <img align="center" alt="MB logo" height="30" width="40" src= "https://avatars.githubusercontent.com/u/182909030?v=4&size=64">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="VS-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
-   <img align="center" alt="Python" height="30" width="40" src= "https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493">
+  <img align="center" alt="UiPath" height="30" width="40" src= "https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493">
+  <img align="center" alt="Jornada RPA" height="30" width="40" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5h7aekHW9NT9FCoVSnBM2A502BUmNRGT1Xw&s">
 </div>
 <br>
 
