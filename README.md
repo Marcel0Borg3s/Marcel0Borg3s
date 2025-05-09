@@ -21,6 +21,7 @@
   <img align="center" alt="VS-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
   <img align="center" alt="UiPath" height="30" width="40" src= "https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1720244493">
   <img align="center" alt="Jornada RPA" height="30" width="40" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5h7aekHW9NT9FCoVSnBM2A502BUmNRGT1Xw&s">
+  <img align="center" alt="PycodeBR" height="30" width="40" src= "https://www.google.com/imgres?q=PycodeBR%20Treinamentos&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D0BAQEcwCR-ZnjR_g%2Fcompany-logo_200_200%2Fcompany-logo_200_200%2F0%2F1723741504056%3Fe%3D2147483647%26v%3Dbeta%26t%3Dzc2x3VaStKODWaysOLyyGJHoucTv4r2IlYgnmmcQ3kM&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fpycodebr-treinamentos&docid=E5p4cXiyADISaM&tbnid=DKpiqb-b8yQjvM&vet=12ahUKEwid6__HxZeNAxW9r5UCHYoxPCoQM3oECBoQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwid6__HxZeNAxW9r5UCHYoxPCoQM3oECBoQAA"
 </div>
 <br>
 
